@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Guide",
+  "base_artist": "早見沙織",
+  "createdAt": "2026-02-16T17:46:58.722314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Marauders Tour Guide",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Midnight_Marauders_Tour_Guide_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To Guard and to Guide You",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/02_To_Guard_and_to_Guide_You_Lift_to_Experience.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Invisible Guide",
+      "artist": "Koan",
+      "has_synced": false,
+      "path": "select/03_Invisible_Guide_Koan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guide Me Home",
+      "artist": "Freddie Mercury feat. Montserrat Caballé",
+      "has_synced": true,
+      "path": "select/04_Guide_Me_Home_Freddie_Mercury_feat._Montserrat_Caballé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guide Me Home",
+      "artist": "Freddie Mercury & Montserrat Caballé",
+      "has_synced": true,
+      "path": "select/05_Guide_Me_Home_Freddie_Mercury_&_Montserrat_Caballé.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Judas Be My Guide",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/06_Judas_Be_My_Guide_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guide Me Home - Piano Version",
+      "artist": "Freddie Mercury",
+      "has_synced": false,
+      "path": "select/07_Guide_Me_Home_-_Piano_Version_Freddie_Mercury.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Dance - Studio Guide Vocal Rough",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_Last_Dance_-_Studio_Guide_Vocal_Rough_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Dance (Studio Rough - Guide Vocal)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Last_Dance_(Studio_Rough_-_Guide_Vocal)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lullaby - Studio Guide Vocal Rough",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Lullaby_-_Studio_Guide_Vocal_Rough_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Out Of Mind - Studio Guide Vocal Rough",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_Out_Of_Mind_-_Studio_Guide_Vocal_Rough_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Out Of Mind (Studio Rough - Guide Vocal)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_Out_Of_Mind_(Studio_Rough_-_Guide_Vocal)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Plainsong - Studio Guide Vocal Rough",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/13_Plainsong_-_Studio_Guide_Vocal_Rough_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Plainsong (Studio Rough - Guide Vocal)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/14_Plainsong_(Studio_Rough_-_Guide_Vocal)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Salesman's Guide to Non - Existence",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/15_A_Salesman's_Guide_to_Non_-_Existence_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Salesman's Guide to Nonexistence",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/16_A_Salesman's_Guide_to_Nonexistence_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Through the Barricades (One Track Vocal Guide Demo)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/17_Through_the_Barricades_(One_Track_Vocal_Guide_Demo)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guide",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/pl_01_Guide_早見沙織.txt"
+    }
+  ]
+}
